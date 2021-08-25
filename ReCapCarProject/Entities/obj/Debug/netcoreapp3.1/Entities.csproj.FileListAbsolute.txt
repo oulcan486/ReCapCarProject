@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TOSHIBA\source\repos\ReCapCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
